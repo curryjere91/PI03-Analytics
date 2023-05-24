@@ -13,9 +13,9 @@ This project is a small summary of data analysis from the International Civil Av
 
 ## **Objective**
 
-The project aims to develop an interactive dashboard that enables users to explore the data and extract relevant information about aircraft accidents. Additionally, a comprehensive report will be generated to present the findings derived from the analyzed data.
+The aim of this project was to develop an interactive dashboard that enables users to explore the data and extract relevant information about aircraft accidents. With these findings a report was generated in Power BI.
 
-To accomplish this objective, a database of aircraft accidents worldwide spanning from 1908 to 2021 was utilized. The data was thoroughly analyzed and visualized to identify patterns and trends pertaining to civil aviation safety.
+The dataset used for this was a list of worldwide aircraft accidents spanning from 1908 to 2021. The data was thoroughly analyzed and visualized to identify patterns and trends pertaining to the variety of accidents, as well as their fatality rate.
 
 ## **Scope**
 
