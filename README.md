@@ -30,14 +30,14 @@ The final analysis has been condensed on a Power BI dashboard with more detailed
 
 ## **Links for the repository**
 
-- Report of analysis:[Report](https://github.com/curryjere91/PI03-Analytics/blob/main/Report.md)
+- Report of analysis: [Report](https://github.com/curryjere91/PI03-Analytics/blob/main/Report.md)
 - Main ETL: [ETL](https://github.com/curryjere91/PI03-Analytics/blob/main/ETL%20and%20a%20bit%20of%20non%20graphic%20EDA.ipynb)
-- Main EDA:[EDA](https://github.com/curryjere91/PI03-Analytics/blob/main/ETL%202%20and%20random%20graphic.ipynb)
+- Main EDA: [EDA](https://github.com/curryjere91/PI03-Analytics/blob/main/ETL%202%20and%20random%20graphic.ipynb)
 - Power BI: [Dashboard](https://github.com/curryjere91/PI03-Analytics/blob/main/Dashboard.pbix)
-- Transformed Datasets: 
+- Transformed Datasets:  
                 + [Accidents](https://github.com/curryjere91/PI03-Analytics/blob/main/clean_accidents.csv)
                 + [Flights and other metrics](https://github.com/curryjere91/PI03-Analytics/blob/main/total%20flights%201970%20to%202021.csv)
 
-- `Additional Resources:` 
+- `Additional Resources:`  
             + [World Data Bank Depatures](https://data.worldbank.org/indicator/IS.AIR.DPRT)
             + [World Data Bank Passengers](https://data.worldbank.org/indicator/IS.AIR.PSGR)
