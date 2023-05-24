@@ -22,6 +22,9 @@ The dataset used for this was a list of worldwide aircraft accidents spanning fr
 `ETL and EDA`
 Performed the necessary transformations to the base csv files, modified and merged together with other csv as needed to gain insights on the data. Continued with some graphics and comprehensive analysis using matplotlib to visualize the relationships between the diffent types of data found in the datasets.
 
+`Report`
+A more detailed report that includes insights on the data has been written to separate it from the README. In this report you will find part of the thought process that came from some of the graphs that were also added on the Power BI dashboard.
+
 `Analysis`
 The final analysis has been condensed on a Power BI dashboard with more detailed trends and interactive metrics.
 
